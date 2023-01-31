@@ -1,2 +1,2 @@
 password assignment #3
-#the password is a combination of two lowercase letters
+# the password is a combination of two lowercase letters
